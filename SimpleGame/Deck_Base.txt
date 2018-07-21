@@ -1,0 +1,12 @@
+Bladestorm/Deal 1 damage to all enemy units and structures/Spell/Common/5
+Emerald Tower/At the start of your turn, give 2 strength to all friendly units in front/Structure/Rare/4/3
+Execution/Deal 3 damage to a target enemy unit or structure/Spell/Common/4
+Felflares/On play, deal 2 damage to a random surrounding enemy/Unit/Common/3/2/0
+Fort of Ebonrock/No effect/Structure/Common/3/4
+Gifted recruits/No effect/Unit/Common/2/2/1
+Heroic soldiers/No effect/Unit/Common/5/5/1
+Joust champions/Before attacking a unit or structure, deal 3 additional damage to it/Unit/Rare/8/3/2
+Personnal servers/On play, give 2 strength to another random friendly unit/Unit/Common/4/2/1
+Siegebreakers/On play, deal 4 damage to all bordering enemy structures/Unit/Rare/4/4/0
+Veterans of war/No effect/Unit/Common/7/8/1
+Warfront runners/No effect/Unit/Common/4/2/2

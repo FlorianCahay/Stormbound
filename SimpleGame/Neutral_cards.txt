@@ -1,0 +1,48 @@
+Avian Stalkers/On death, spawn 3 strength Ravens on all tiles behind./Unit/Epic/7/6/0
+Beasts of Terror/When attacking a non-Dragon unit, deal 2 damage to all other enemies with the same unit type./Unit/Epic/4/3/1
+Bladestorm/Deal 1 damage to all enemy units and structures./Spell/Common/5
+Bluesail Raiders//Unit/Common/5/3/2
+Boomstick Officers/On play, deal 3 damage to a random enemy unit behind./Unit/Rare/6/6/0
+Brothers in Arms/On play, spawn a 1 strength Knight on the tile behind./Unit/Common/3/3/0
+Cabin Girls//Unit/Common/4/5/0
+Call for Aid/Spawn 3 strength units on all tiles bordering a target friendly unit./Spell/Rare/7
+Confinement/Reduce the strength of a target enemy unit to 5./Spell/Common/4
+Conflicted Drakes/On play, deal 1 damage to all non-Dragon units in front./Unit/Rare/3/3/0
+Crazy Bombers/On play, deal 7 damage spread randomly among all bordering enemies./Unit/Epic/9/7/1
+Dangerous Suitors/On play, gain 2 strength for every other Dragon on the board./Unit/Rare/5/3/1
+Emerald Towers/At the start of your turn, give 2 strength to all friendly units in front./Structure/Rare/4/3/
+Execution/Deal 3 damage to a target enemy unit or structure./Spell/Common/4/
+Felflares/On play, deal 2 damage to a random surrounding enemy./Unit/Common/3/2/0
+First Mutineer/On play, discard 1 random card from your hand./Unit/Common/2/1/2
+Flooding the Gates/Deal 3 damage to all units bordering your base./Spell/Rare/6
+Fort of Ebonrock//Structure/Common/3/4
+Freebooters/On play, draw 1 card./Unit/Common/3/2/0
+Gifted Recruits/No effect/Unit/Common/2/2/1
+Goldgrubbers/On play, replace 1 random non-Pirate card from your hand./Unit/Epic/4/4/1
+Green Prototypes/On death, give 1 strength to a random bordering enemy unit./Unit/Rare/1/1/1
+Hearthguards/If played bordering a friendly structure or base, gain 3 strength./Unit/Epic/6/3/2
+Heroic Soldiers//Unit/Common/5/5/1
+Joust Champions/Before attacking a unit or structure, deal 3 additional damage to it./Unit/Rare/8/3/2
+Kindred's Grace/Give 5 strength to a target friendly unit and 2 strength to all others with the same unit type./Spell/Epic/6
+Lawless Herd//Unit/Common/1/1/0
+Lich Summoners/After attacking, spawn a 3 strength Undead on the tile behind./Unit/Epic/6/6/1
+Lucky Charmers/On play, gain 2 strength for each Pirate in your hand./Unit/Rare/6/4/1
+Ludic Matriarchs/If played bordering exactly 1 friendly Dragon, spawn 1 strength Dragons on all tiles bordering either./Unit/Epic/6/5/0
+Needle Blast/Deal 2 damage to 2 random enemies./Spell/Rare/5
+Northsea Dog/If played as the last card in your hand, gain 4 strength./Unit/Rare/1/1/0
+Personal Servers/On play, give 2 strength to another random friendly unit./Unit/Common/4/2/1
+Potion of Growth/Give a target friendly unit 3 strength./Spell/Common/3
+Salty Outcasts//Unit/Common/7/5/2
+Sharpfist Exiles/On play, gain 2 strength for every enemy unit./Unit/Rare/7/1/1
+Siegebreakers/On play, deal 4 damage to all bordering enemy structures./Unit/Rare/4/4/0
+Snowmasons/On death, give 4 strength spread randomly among all surrounding friendly units./Unit/Rare/4/2/1
+Spare Dragonlings/On death, give a random friendly Dragon 4 strength./Unit/Rare/2/1/1
+Summon Militia/Randomly spawn a Knight with 4 strength./Spell/Common/2
+Temple Guardians/If played bordering your base, spawn 4 strength Knights on all tiles in the same row./Unit/Epic/8/6/0
+Terrific Slayers/Before attacking a Dragon, deal 4 additional damage./Unit/Rare/5/4/1
+Trueshot Post/At the start of your turn, deal 3 damage to a random enemy unit./Structure/Epic/5/4
+Veterans of War//Unit/Common/7/8/1
+Victors of the Melee/When attacking, deal 2 damage to all surrounding enemy units and structures./Unit/Rare/6/4/1
+Voidsurgers/If played bordering at least 2 enemies, deal 2 damage to each./Unit/Rare/5/4/0
+Warfront Runners//Unit/Common/4/2/2
+Westwind Sailors//Unit/Common/3/3/1

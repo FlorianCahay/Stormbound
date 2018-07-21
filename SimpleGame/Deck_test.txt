@@ -1,0 +1,12 @@
+Felflares/On play, deal 2 damage to a random surrounding enemy/Unit/Common/3/2/0
+Gifted recruits/No effect/Unit/Common/2/2/1
+Heroic soldiers/No effect/Unit/Common/5/5/1
+Veterans of war/No effect/Unit/Common/7/8/1
+Warfront runners/No effect/Unit/Common/4/2/2
+Avian Stalkers/On death, spawn 3 strength Ravens on all tiles behind./Unit/Epic/7/6/0
+Beasts of Terror/When attacking a non-Dragon unit, deal 2 damage to all other enemies with the same unit type./Unit/Epic/4/3/1
+Northsea Dog/If played as the last card in your hand, gain 4 strength./Unit/Rare/1/1/0
+Westwind Sailors//Unit/Common/3/3/1
+Temple Guardians/If played bordering your base, spawn 4 strength Knights on all tiles in the same row./Unit/Epic/8/6/0
+Terrific Slayers/Before attacking a Dragon, deal 4 additional damage./Unit/Rare/5/4/1
+Victors of the Melee/When attacking, deal 2 damage to all surrounding enemy units and structures./Unit/Rare/6/4/1
